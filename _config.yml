@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : pRoJEct-NeGYa
 owner               : "DeerRIDER"
-url                 : "https://gmkzwwg.github.io"
+url                 : "https://metarchltecture.github.io"
 baseurl             : "/pRoJEct-NeGYa"
 ## baseurl            : ""
 permalink           : /:title/
